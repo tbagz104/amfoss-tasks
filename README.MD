@@ -9,14 +9,14 @@
 | Task No. 	| List                            	|
 |----------	|---------------------------------	|
 | 0        	| [Install Ubuntu](https://akshayhari.home.blog/blog-feed/)                   	|
-| 1        	| [Star all amfoss repositories](https://github.com/amfoss/star-me)     	|
-| 2        	| [HackerRank & Codeforce Problems](https://github.com/tbagz104/amfoss-tasks/tree/master/task-2) 	|
-| 3      	| [Google Scraping](https://github.com/tbagz104/amfoss-tasks/tree/master/task-3)    
-| 5      	| [Get It Using JavaScript](https://github.com/tbagz104/amfoss-tasks/tree/master/task-5)   
+| 1        	| [Star all amfoss repositories](https://github.com/tbagz104/amfoss-tasks/tree/master/task-01)     	|
+| 2        	| [HackerRank & Codeforce Problems](https://github.com/tbagz104/amfoss-tasks/tree/master/task-02) 	|
+| 3      	| [Google Scraping](https://github.com/tbagz104/amfoss-tasks/tree/master/task-03)    
+| 5      	| [Get It Using JavaScript](https://github.com/tbagz104/amfoss-tasks/tree/master/task-05)   
 | 6      	| [CLI App Using GO](https://github.com/tbagz104/amfoss-tasks/tree/master/task-06)           	|
-| 7      	| [Rusted Email](https://github.com/tbagz104/amfoss-tasks/tree/master/task-7)            	|
-| 8        	| [Captcha Breaking](https://github.com/tbagz104/amfoss-tasks/tree/master/task-8)                	|
-| 9        	| [Simple Personal Website](https://github.com/tbagz104/amfoss-tasks/tree/master/task-9)      
+| 7      	| [Rusted Email](https://github.com/tbagz104/amfoss-tasks/tree/master/task-07)            	|
+| 8        	| [Captcha Breaking](https://github.com/tbagz104/amfoss-tasks/tree/master/task-08)                	|
+| 9        	| [Simple Personal Website](https://github.com/tbagz104/amfoss-tasks/tree/master/task-09)      
 | 14       	| [A Pong Game ](https://github.com/tbagz104/amfoss-tasks/tree/master/task-11)             	|
 | 13      	| [Project Euler](https://github.com/tbagz104/amfoss-tasks/tree/master/task-13)      	|
 | 14       	| [Bandit Over The Wire](https://github.com/tbagz104/amfoss-tasks/tree/master/task-14)             	|
