@@ -11,4 +11,18 @@
   * The game has been hosted on my [Website.](https://tbagz104.github.io/GitHubProfileViewer/)
 
 
-|
+### How to Play:question:
+
+* Input first player name and press OK.
+
+<p align="center"><img src="Images/player1.png"></p>
+
+* Input second player name and press OK.
+
+<p align="center"><img src="Images/player2.png"></p>
+
+### Gameplay :video_game:
+
+* The game will start once the player names are entered.
+
+<p align="center"><img src="Images/gameplay.png"></p>
